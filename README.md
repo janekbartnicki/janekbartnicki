@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janek</h1>
-<h3 align="center"><h1> a front-end dev </h1></h3>
+<h3 align="center">a front-end dev</h3>
 
 - 🌱 I’m currently learning **TypeScrpit**
 
