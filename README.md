@@ -2,7 +2,7 @@
 <h3 align="center">a front-end dev</h3>
 
 <p align="center">🌱 I’m currently learning <b>Firebase</b> 🔥 with <b>Stripe</b> integration</p>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -28,4 +28,9 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
-
+<hr>
+<br>
+<div align='center'>
+   I'm studying on Silesian University of Technology<br><br>
+   <img src="https://ckziu-myslowice.pl/wp-content/uploads/2021/04/Politechnika-Slaska-logo.png" alt="javascript" width="110" height="40"/>
+</div>
