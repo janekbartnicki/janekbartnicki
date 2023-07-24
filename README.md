@@ -31,6 +31,6 @@
 <hr>
 <br>
 <div align='center'>
-   I'm studying on Silesian University of Technology<br><br>
+   I'm studying computer science on Silesian University of Technology<br><br>
    <img src="https://ckziu-myslowice.pl/wp-content/uploads/2021/04/Politechnika-Slaska-logo.png" alt="javascript" width="110" height="40"/>
 </div>
