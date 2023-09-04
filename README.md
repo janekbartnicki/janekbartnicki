@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janek</h1>
 <h3 align="center">a front-end dev</h3>
 
-<p align="center">🌱 I’m currently learning <b>Firebase</b> 🔥 with <b>Stripe</b> integration</p>
+<p align="center">🌱 I’m currently learning <b>Next.js</b></p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -21,6 +21,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" alt="git" width="100" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
