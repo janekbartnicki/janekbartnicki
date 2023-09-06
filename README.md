@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janek</h1>
 <h3 align="center">a front-end dev</h3>
 
-<p align="center">🌱 I’m currently learning <b>Next.js</b></p>
+<p align="center">🌱 I’m currently learning <b>Next.js</b> and <b>Three.js</b> with <b>React Three Fiber</b></p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
