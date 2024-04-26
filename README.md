@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Janek! 👋</h1>
 
+<h2 align="center">&lt;&gt; Junior Front-end Developer 💻&lt;/&gt;</h2>
+
+<h4 align="center">🌱 Intern Front-end Developer at <b>Nokia</b></h4>
+
+<div align="center">
+  <img src="https://static.wirtualnemedia.pl/media/top/nokia-logo2023-655.jpg" height="140" alt="nokia logo"/>
+</div>
+
 ###
 
-<h2 align="center">a junior full-stack developer 💻</h2>
-
-###
-
-<p align="center">🌱 I create commercial websites and write my own projects</p>
-
-###
-
-<h3 align="center">Front End Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 ###
 
@@ -32,34 +32,12 @@
 
 ###
 
-<h3 align="center">Back End Stack</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div>
-
-###
-
 <h5 align="center">Currently learning:</h5>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" alt="angular logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
