@@ -6,7 +6,7 @@
   <img src="https://creativereview.imgix.net/content/uploads/2023/02/Nokia-lippincott-new-logo-rebrand.jpg?auto=compress,format&q=60&w=1200&h=675" height="140" alt="nokia logo"/>
 </div>
 
-<p align="center"> Frontend Developer at <b>Nokia</b></p>
+<p align="center"> Frontend Developer at <b>Nokia</b> <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular logo" width="20" height="20" alt="angular logo"/></p>
 
 ###
 
