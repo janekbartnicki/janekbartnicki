@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular logo" width="40" height="40" alt="angular logo"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
@@ -37,11 +39,11 @@
 ###
 
 <div align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" alt="angular logo"/>
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -51,7 +53,7 @@
 ###
 
 <div align="center">
-  <img height="50" src="https://camo.githubusercontent.com/1571c47c4055013e98ddc5bf945006d27fba8e730c099b38c0b8689ba2ec03f6/68747470733a2f2f636b7a69752d6d79736c6f776963652e706c2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f506f6c69746563686e696b612d536c61736b612d6c6f676f2e706e67"  />
+  <img height="50" src="https://www.polsl.pl/rjo5-sjo/wp-content/uploads/sites/705/2023/10/polsl_logo-300x79.png"  />
 </div>
 
 ###
