@@ -44,6 +44,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo"/>
   <img width="12"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" alt="docker logo"/>
+  <img width="12"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" height="40" alt="docker logo"/>
 </div>
 
 ###
