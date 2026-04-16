@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Janek! 👋</h1>
 
-<h2 align="center">&lt;&gt; Junior Frontend Developer 💻&lt;/&gt;</h2>
+<h2 align="center">&lt;&gt;Frontend Developer 💻&lt;/&gt;</h2>
 
 <div align="center">
-  <img src="https://creativereview.imgix.net/content/uploads/2023/02/Nokia-lippincott-new-logo-rebrand.jpg?auto=compress,format&q=60&w=1200&h=675" height="140" alt="nokia logo"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-XyodTNAdjf7TpDQSpLYyOqESl4i5lQgAEL6qkPsmc07nIyzQpQOY4jXwdi_9JwuH1mB77NW2NErh8ItPU5eEqu75YFXw11KCplaRGrmFU85duMYtQEUHrRoUHrU-0OO83XvrEO-3CN8Ytdb3xsaXxFyomJwdMt-rL5IIT5Lb9ZXu0vFcM7vBaDc3A/s16000/Nokia%20New%20Logo.png" height="140" alt="nokia logo"/>
 </div>
 
-<p align="center"> Frontend Developer at <b>Nokia</b> <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular logo" width="20" height="20" alt="angular logo"/></p>
+<p align="center"> Frontend Developer (Angular) at <b>Nokia</b> </p>
 
 ###
 
@@ -15,37 +15,36 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-  <img width="12"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular logo" width="40" height="40" alt="angular logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-</div>
-
-###
-
-<h5 align="center">Currently learning:</h5>
-
-###
-
-<div align="center">
-  
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" alt="docker logo"/>
-  <img width="12"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" height="40" alt="docker logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40" alt="rxjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="scss logo" />
+  <img width="12" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" height="40" alt="alpinejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
 </div>
 
 ###
