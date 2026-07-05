@@ -3,10 +3,10 @@
 <h2 align="center">&lt;&gt;Frontend Developer 💻&lt;/&gt;</h2>
 
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-XyodTNAdjf7TpDQSpLYyOqESl4i5lQgAEL6qkPsmc07nIyzQpQOY4jXwdi_9JwuH1mB77NW2NErh8ItPU5eEqu75YFXw11KCplaRGrmFU85duMYtQEUHrRoUHrU-0OO83XvrEO-3CN8Ytdb3xsaXxFyomJwdMt-rL5IIT5Lb9ZXu0vFcM7vBaDc3A/s16000/Nokia%20New%20Logo.png" height="140" alt="nokia logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/Updated_logo_for_Hyland_Software.png" height="140" alt="hyland logo"/>
 </div>
 
-<p align="center"> Frontend Developer (Angular) at <b>Nokia</b> </p>
+<p align="center"> Frontend Developer (Angular) at <b>Hyland</b> </p>
 
 ###
 
