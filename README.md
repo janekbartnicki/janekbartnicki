@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Janek! 👋</h1>
 
-<h2 align="center">&lt;&gt;Frontend Developer 💻&lt;/&gt;</h2>
-
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/Updated_logo_for_Hyland_Software.png" height="140" alt="hyland logo"/>
 </div>
 
 <p align="center"> Frontend Developer (Angular) at <b>Hyland</b> </p>
+
+<hr>
 
 ###
 
@@ -50,6 +50,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
 </div>
+
+<hr>
 
 ###
 
